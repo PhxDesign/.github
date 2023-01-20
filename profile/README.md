@@ -6,6 +6,8 @@ Nous savons qu'il n'y a rien de parfait... et qu'il existe plusieurs méthodolog
 
 Nous remercions tous les collaborateurs, tous ceux qui de façon positive, permettent le développement et l'évolution de tout un chacun, dans cette grande communauté!
 
+> Le maintien de cet espace s'effectue hors des heures de travail et comme plusieurs d'entre vous, nous actualisons le contenu en fonction des disponiblités. Merci pour votre compréhension.
+
 ## On travaille sur quoi?
 
 Il n'y a que 24 hrs dans une journée et 7 jours par semaine! On voudrait bien tout connaître, mais bon, on doit tout de même dormir de temps en temps et même parfois avoir une vie sociale :P
