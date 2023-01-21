@@ -41,15 +41,15 @@ Liste des principales solutions déployées et utilisées.
 
 
 
-### GLPI
+#### GLPI
 
 > Description à venir
 
-### Password pusher
+#### Password pusher
 
 > Description à venir
 
-#### Languages
+### Languages
 
 Principaux langages utilisés dans le cadre des activités.
 
