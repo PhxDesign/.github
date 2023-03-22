@@ -31,7 +31,7 @@ Liste des principales solutions déployées et utilisées.
 |Azure SQL |Intégration du service pour la gestion de data warehouse et la modélisation via Data Factory. |
 |Data Factory|Importation et modélisation de données pour l'ingestion vers le data warehouse.|
 |Groupe de gestion |Regroupement logique des abonnements afin de répondre à la conformité et segmenter adéquatement l'accès aux ressources. |
-|DNS Zone |Gestion des DNZ publique. |
+|DNS Zone |Gestion des DNZ publiques. |
 |Key vaults |Intégration aux services cloud, ainsi qu'au développement application et l'exécution automatisée. |
 |Landing zone |Principe basé sur les meilleures pratiques pour la migration, intégration et l'évolution des services cloud. |
 |Log Analytics workspaces |Gestion des données de diagnostics et de sécurité. |
