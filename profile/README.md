@@ -21,9 +21,9 @@ Liste des principales solutions déployées et utilisées.
 
 |Services  |Contexte  |
 |---------|---------|
-|App Services |Déploiement de conteneurs pour application web; [PasswordPusher](https://github.com/pglombardo/PasswordPusher), [Wordpress](https://github.com/WordPress/WordPress),[GLPI](https://github.com/glpi-project/glpi),etc.|
+|App Services |Déploiement de conteneurs pour application web; [PasswordPusher](https://github.com/pglombardo/PasswordPusher), [Wordpress](https://github.com/WordPress/WordPress), [GLPI](https://github.com/glpi-project/glpi),etc.|
 |Automation accounts|Déploiement des extensions Azure ARC, exécution de tâches récurrentes, etc. |
-|Azure ARC |Gestion centralisée des serveurs et services, incluant le déploiement des extensions de gestion (sécurité, analyse des performances, administration à distance). |
+|Azure ARC |Gestion centralisée des serveurs, postes d'administration et services, incluant le déploiement des extensions de gestion (sécurité, analyse des performances, administration à distance). |
 |Azure AD Conditional Access|Respect des normes de sécurité et implantation de la conformité. |
 |Azure DevOps|Développement et maintien du code source privé, incluant la mise en place de pipelines. |
 |Azure Monitor |Analyse centralisée du niveau de sécurité des ressources déployées, cloud et on-premise.|
