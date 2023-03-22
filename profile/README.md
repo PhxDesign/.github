@@ -21,12 +21,12 @@ Liste des principales solutions déployées et utilisées.
 
 |Services  |Contexte  |
 |---------|---------|
-|App Services |Déploiement de conteneurs pour application web.|
+|App Services |Déploiement de conteneurs pour application web; [PasswordPusher](https://github.com/pglombardo/PasswordPusher), [Wordpress](https://github.com/WordPress/WordPress),[GLPI](https://github.com/glpi-project/glpi),etc.|
 |Automation accounts|Déploiement des extensions Azure ARC, exécution de tâches récurrentes, etc. |
 |Azure ARC |Gestion centralisée des serveurs et services, incluant le déploiement des extensions de gestion (sécurité, analyse des performances, administration à distance). |
 |Azure AD Conditional Access|Respect des normes de sécurité et implantation de la conformité. |
 |Azure DevOps|Développement et maintien du code source privé, incluant la mise en place de pipelines. |
-|Azure Monitor | |
+|Azure Monitor |Analyse centralisée du niveau de sécurité des ressources déployées, cloud et on-premise.|
 |Azure Policies |Déploiement des règles de conformité pour faciliter l'audit ainsi que le déploiement des extensions requises (AMA, Security Agent, etc.). |
 |Azure SQL |Intégration du service pour la gestion de data warehouse et la modélisation via Data Factory. |
 |Data Factory|Importation et modélisation de données pour l'ingestion vers le data warehouse.|
@@ -39,15 +39,21 @@ Liste des principales solutions déployées et utilisées.
 |Policy |Déploiement des politiques de conformité et de sécurité pour le tenant, facilitant l'identification des améliorations et du suivi des standards. |
 |Storage Accounts|Intégration aux solutions de développement, d'automatisation ainsi qu'à l'importation/exportation de journaux d'analyse. |
 
-
-
 #### GLPI
 
-> Description à venir
+Gestionnaire Libre de Parc Informatique, cette application permet la gestion de ressources et services TI. Elle propose des fonctionnalités Centre de service ITIL, gestion de licences, audit logiciel et bien plus.
+
+![GLPI Logo](https://raw.githubusercontent.com/glpi-project/glpi/main/pics/logos/logo-GLPI-250-black.png)
+
+> [GLPI Sur Github](https://github.com/glpi-project/glpi)
 
 #### Password pusher
 
-> Description à venir
+Application web de source libre permettant l'échange sécurisé de secret, clé, mot de passe, etc. Légère et personnalisable, son utilisation est simple, intègre des fonctionnalités en ligne de commande et vous pouvez déployer votre instance privée.
+
+![Password Pusher Logo](https://camo.githubusercontent.com/605784bbd2101eb06dabf145df15fbce3d991c12972880c7683674aa224f7f81/68747470733a2f2f7077707573682e73332e65752d776573742d312e616d617a6f6e6177732e636f6d2f7077707573682d686f72697a6f6e74616c2d6c6f676f2e706e67)
+
+> [PaswwordPusher sur Github](https://github.com/pglombardo/PasswordPusher)
 
 ### Languages
 
